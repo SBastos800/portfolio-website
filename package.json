@@ -1,0 +1,10 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SBastos800/portfolio.git",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.25.0"
+  }
+}
